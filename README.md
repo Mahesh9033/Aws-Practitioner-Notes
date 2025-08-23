@@ -2,7 +2,7 @@
 
 # 
 
-# This repository documents my learning journey for the \*\*AWS Cloud Practitioner Essentials\*\* course.  
+# This repository documents my learning journey for the AWS Cloud Practitioner Essentials course.  
 
 # It includes detailed notes, progress screenshots, and milestones for each module.
 
@@ -12,11 +12,11 @@
 
 # 
 
-# \## 📸 Starting Point
+# 📸 Starting Point
 
 # 
 
-# I have enrolled in the \*\*AWS Cloud Practitioner Essentials\*\* course.  
+# I have enrolled in the AWS Cloud Practitioner Essentials course.  
 
 # Course Duration: 12h 45m | Level: Fundamental | Language: English  
 
@@ -34,7 +34,7 @@
 
 # 
 
-# \## 📂 Repository Structure
+# 📂 Repository Structure
 
 # 
 
@@ -50,11 +50,11 @@
 
 # 
 
-# \## 📊 Progress Tracking
+# 📊 Progress Tracking
 
 # 
 
-# \### AWS Cloud Practitioner Essentials
+# AWS Cloud Practitioner Essentials
 
 # 
 
@@ -82,7 +82,7 @@
 
 # 
 
-# \## 🎯 Objective
+# 🎯 Objective
 
 # 
 
@@ -94,7 +94,7 @@
 
 # \- Track progress with screenshots for accountability  
 
-# \- Prepare effectively for the \*\*AWS Certified Cloud Practitioner Exam (CLF-C02)\*\*
+# \- Prepare effectively for the AWS Certified Cloud Practitioner Exam (CLF-C02)
 
 
 
